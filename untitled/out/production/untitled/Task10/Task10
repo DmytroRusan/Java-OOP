@@ -1,0 +1,4 @@
+- Створити клас Phone, який має поле phoneNumber та метод call(String phone);
+- Створити клас MobilePhone, який має все, що і клас Phone плюс поле DisplaySize
+та метод sendSMS(String phone, String smsText);
+- Створити клас Smartphone, який має все, що і клас MobilePhone плюс меод makeVideo()
